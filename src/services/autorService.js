@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://tienda-microservicio-libro-api.onrender.com/api/autor';
+const API_URL = 'http://www.autoresali.somee.com/api/autor';
 
 export const getAutores = async () => {
     try {
